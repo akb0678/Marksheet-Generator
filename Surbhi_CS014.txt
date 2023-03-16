@@ -1,0 +1,18 @@
+     University of Delhi
+            Delhi
+Student name: Surbhi
+Programme: M.Sc. (CS)
+Roll Number: CS014
+
+Sub1: 95
+Sub2: 95
+Sub3: 85
+Sub4: 87
+Sub5: 88
+
+Year of passing: 2023
+
+
+Date of Issue: 16/03/23, 15:56:17
+
+Signing Authority 

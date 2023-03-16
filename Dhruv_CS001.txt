@@ -1,0 +1,18 @@
+     University of Delhi
+            Delhi
+Student name: Dhruv
+Programme: MCA
+Roll Number: CS001
+
+Sub1: 92
+Sub2: 91
+Sub3: 90
+Sub4: 93
+Sub5: 92
+
+Year of passing: 2024
+
+
+Date of Issue: 16/03/23, 15:56:17
+
+Signing Authority 
